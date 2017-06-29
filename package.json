@@ -1,0 +1,26 @@
+{
+  "name": "shifty_brown_bag",
+  "version": "1.0.0",
+  "description": "Website for a massage therapy",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAyzenberg/Shifty_Brown_Bag.git"
+  },
+  "keywords": [
+    "Massage",
+    "Webstie",
+    "Mercer-Island"
+  ],
+  "author": "Ben Ayzenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BAyzenberg/Shifty_Brown_Bag/issues"
+  },
+  "homepage": "https://github.com/BAyzenberg/Shifty_Brown_Bag#readme"
+}
