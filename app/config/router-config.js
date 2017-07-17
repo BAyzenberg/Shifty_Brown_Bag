@@ -3,6 +3,7 @@
 module.exports = ['$stateProvider', '$urlServiceProvider', function($stateProvider, $urlServiceProvider) {
   $urlServiceProvider.rules.when('', '/home');
   $urlServiceProvider.rules.when('/', '/home');
+  // TODO: confirm that extra routes are not necissary
 
   let routes = [
     {
