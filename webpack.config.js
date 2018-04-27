@@ -3,7 +3,7 @@
 require('dotenv').load();
 
 const webpack = require('webpack');
-const HTMLPlugin = require('html-webpack-pligin');
+const HTMLPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 let plugins = [
